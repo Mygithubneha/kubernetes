@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: python-app
-        image: mydockerhub121/python-webapp:v1
+        image: mydockerhub121/my-python-app:v2
         ports:
         - containerPort: 5000
